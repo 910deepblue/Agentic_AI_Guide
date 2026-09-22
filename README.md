@@ -2,5 +2,5 @@
 很新的入门教材
 https://yeasy.gitbook.io/agentic_ai_guide
 
-AI 入门另一本:
+AI 入门另一本 《深入理解 AI agent》:
 https://bojieli.github.io/ai-agent-book/book/chapter1/
